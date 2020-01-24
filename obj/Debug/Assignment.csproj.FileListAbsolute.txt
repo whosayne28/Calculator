@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\admin\Desktop\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\admin\Desktop\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\admin\Desktop\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\admin\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
